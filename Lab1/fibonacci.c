@@ -11,5 +11,5 @@ void main()
         f1=f2;
         f2=f3;
     }
-    printf("%d",f1);
+    printf("%d",f2);
 }

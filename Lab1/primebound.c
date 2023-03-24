@@ -13,7 +13,7 @@ void main()
             if(n%j==0)
                 break;
         if(j>temp)
-        printf("%d\t",n);
+        printf("%d ",n);
 
     }
 }
